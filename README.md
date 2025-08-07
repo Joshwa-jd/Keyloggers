@@ -49,6 +49,5 @@ Regularly scan your system using trusted cybersecurity tools
 
 **Disclaimer**
 
-This information is intended for educational purposes only.
-Joshwa and the author do not support or promote illegal activities. We are not responsible for any misuse or damage resulting from the information provided here.
+This information is intended for educational purposes only. the author do not support or promote illegal activities. We are not responsible for any misuse or damage resulting from the information provided here.
 
