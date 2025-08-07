@@ -52,6 +52,3 @@ Regularly scan your system using trusted cybersecurity tools
 This information is intended for educational purposes only.
 Joshwa and the author do not support or promote illegal activities. We are not responsible for any misuse or damage resulting from the information provided here.
 
-**License**
-This document is licensed under the MIT License.
-You are free to redistribute or modify it under the terms of the license. See the LICENSE file for more details.
