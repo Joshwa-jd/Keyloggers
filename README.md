@@ -1,4 +1,4 @@
-**What is a Keylogger? – By Joshwa**
+**What is a Keylogger?**
 
 A Keylogger (short for keystroke logger) is a type of surveillance tool that records every key pressed on a keyboard. This logging is usually done discreetly, so the user is unaware their activities are being tracked.
 The purpose of a keylogger is often malicious, such as stealing passwords, credit card numbers, or confidential information. However, keyloggers are also used in legitimate situations like corporate monitoring.
@@ -39,7 +39,7 @@ Signature detection
 Behavioral monitoring (e.g., keystroke or screen capture patterns)
 High-end commercial keyloggers may remain completely hidden and may not impact system performance. Some can even reinstall themselves after attempted removal.
 
-**Best Practices for Staying Safe – Tips from Joshwa**
+**Best Practices for Staying Safe**
 
 Keep your operating system and software updated
 Be cautious with email attachments, even from trusted sources
